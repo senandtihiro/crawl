@@ -1,0 +1,2260 @@
+2016/10/21 23:58:44 dubug url:https://book.douban.com/top250
+2016/10/21 23:58:46 
+<Book:
+  bookname = (梦里花落知多少)
+  rating = (7.2)
+  price = ( 20.00元)
+  publish_info = ( 春风文艺出版社 )
+  author = (郭敬明 )
+  number_of_comments = (141740)
+>
+2016/10/21 23:58:46 
+<Book:
+  bookname = (三重门)
+  rating = (7.4)
+  price = ( 16.00)
+  publish_info = ( 作家出版社 )
+  author = (韩寒 )
+  number_of_comments = (92258)
+>
+2016/10/21 23:58:46 
+<Book:
+  bookname = (杜拉拉升职记)
+  rating = (7.8)
+  price = ( 26.00元)
+  publish_info = ( 陕西师范大学出版社 )
+  author = (李可 )
+  number_of_comments = (88112)
+>
+2016/10/21 23:58:46 
+<Book:
+  bookname = (1988：我想和这个世界谈谈)
+  rating = (7.9)
+  price = ( 25.00元)
+  publish_info = ( 国际文化出版公司 )
+  author = (韩寒 )
+  number_of_comments = (115669)
+>
+2016/10/21 23:58:46 
+<Book:
+  bookname = (挪威的森林)
+  rating = (8.0)
+  price = ( 18.80元)
+  publish_info = ( 上海译文出版社 )
+  author = ([日] 村上春树 )
+  number_of_comments = (176111)
+>
+2016/10/21 23:58:46 
+<Book:
+  bookname = (何以笙箫默)
+  rating = (8.0)
+  price = ( 15.00元)
+  publish_info = ( 朝华出版社 )
+  author = (顾漫 )
+  number_of_comments = (112779)
+>
+2016/10/21 23:58:46 
+<Book:
+  bookname = (达·芬奇密码)
+  rating = (8.2)
+  price = ( 28.00元)
+  publish_info = ( 上海人民出版社 )
+  author = ([美] 丹·布朗 )
+  number_of_comments = (122016)
+>
+2016/10/21 23:58:46 
+<Book:
+  bookname = (不能承受的生命之轻)
+  rating = (8.5)
+  price = ( 23.00元)
+  publish_info = ( 上海译文出版社 )
+  author = ([捷克] 米兰·昆德拉 )
+  number_of_comments = (128352)
+>
+2016/10/21 23:58:46 
+<Book:
+  bookname = (简爱)
+  rating = (8.5)
+  price = ( 18.00元)
+  publish_info = ( 世界图书出版公司 )
+  author = ([英] 夏洛蒂·勃朗特 )
+  number_of_comments = (99998)
+>
+2016/10/21 23:58:46 
+<Book:
+  bookname = (倾城之恋)
+  rating = (8.5)
+  price = ( 11.00)
+  publish_info = ( 花城出版社 )
+  author = (张爱玲 )
+  number_of_comments = (81661)
+>
+2016/10/21 23:58:46 
+<Book:
+  bookname = (解忧杂货店)
+  rating = (8.6)
+  price = ( 39.50元)
+  publish_info = ( 南海出版公司 )
+  author = ((日)东野圭吾 )
+  number_of_comments = (147456)
+>
+2016/10/21 23:58:46 
+<Book:
+  bookname = (送你一颗子弹)
+  rating = (8.6)
+  price = ( 25.00元)
+  publish_info = ( 上海三联书店 )
+  author = (刘瑜 )
+  number_of_comments = (80937)
+>
+2016/10/21 23:58:46 
+<Book:
+  bookname = (追风筝的人)
+  rating = (8.8)
+  price = ( 29.00元)
+  publish_info = ( 上海人民出版社 )
+  author = ([美] 卡勒德·胡赛尼 )
+  number_of_comments = (235832)
+>
+2016/10/21 23:58:46 
+<Book:
+  bookname = (三体)
+  rating = (8.8)
+  price = ( 23.00)
+  publish_info = ( 重庆出版社 )
+  author = (刘慈欣 )
+  number_of_comments = (119680)
+>
+2016/10/21 23:58:46 
+<Book:
+  bookname = (看见)
+  rating = (8.8)
+  price = ( 39.80元)
+  publish_info = ( 广西师范大学出版社 )
+  author = (柴静 )
+  number_of_comments = (105085)
+>
+2016/10/21 23:58:46 
+<Book:
+  bookname = (围城)
+  rating = (8.9)
+  price = ( 19.00)
+  publish_info = ( 人民文学出版社 )
+  author = (钱锺书 )
+  number_of_comments = (176158)
+>
+2016/10/21 23:58:46 
+<Book:
+  bookname = (嫌疑人X的献身)
+  rating = (8.9)
+  price = ( 28.00)
+  publish_info = ( 南海出版公司 )
+  author = ([日] 东野圭吾 )
+  number_of_comments = (114280)
+>
+2016/10/21 23:58:46 
+<Book:
+  bookname = (小王子)
+  rating = (9.0)
+  price = ( 22.00元)
+  publish_info = ( 人民文学出版社 )
+  author = ([法] 圣埃克苏佩里 )
+  number_of_comments = (206926)
+>
+2016/10/21 23:58:46 
+<Book:
+  bookname = (平凡的世界（全三部）)
+  rating = (9.0)
+  price = ( 64.00元)
+  publish_info = ( 人民文学出版社 )
+  author = (路遥 )
+  number_of_comments = (91567)
+>
+2016/10/21 23:58:46 
+<Book:
+  bookname = (哈利·波特与魔法石)
+  rating = (9.0)
+  price = ( 19.50元)
+  publish_info = ( 人民文学出版社 )
+  author = ([英] J. K. 罗琳 )
+  number_of_comments = (80768)
+>
+2016/10/21 23:58:46 
+<Book:
+  bookname = (活着)
+  rating = (9.1)
+  price = ( 12.00元)
+  publish_info = ( 南海出版公司 )
+  author = (余华 )
+  number_of_comments = (117224)
+>
+2016/10/21 23:58:46 
+<Book:
+  bookname = (白夜行)
+  rating = (9.1)
+  price = ( 29.80元)
+  publish_info = ( 南海出版公司 )
+  author = ([日] 东野圭吾 )
+  number_of_comments = (166750)
+>
+2016/10/21 23:58:46 
+<Book:
+  bookname = (百年孤独)
+  rating = (9.2)
+  price = ( 39.50元)
+  publish_info = ( 南海出版公司 )
+  author = ([哥伦比亚] 加西亚·马尔克斯 )
+  number_of_comments = (87186)
+>
+2016/10/21 23:58:46 
+<Book:
+  bookname = (飘（上下）)
+  rating = (9.3)
+  price = ( 40.00元)
+  publish_info = ( 译林出版社 )
+  author = ([美国] 玛格丽特·米切尔 )
+  number_of_comments = (72091)
+>
+2016/10/21 23:58:46 
+<Book:
+  bookname = (红楼梦)
+  rating = (9.5)
+  price = ( 59.70元)
+  publish_info = ( 人民文学出版社 )
+  author = ([清] 曹雪芹 著 )
+  number_of_comments = (110128)
+>
+2016/10/21 23:58:46 dubug url:https://book.douban.com/top250?start=25
+2016/10/21 23:58:46 
+<Book:
+  bookname = (悲伤逆流成河)
+  rating = (6.3)
+  price = ( 24.00元)
+  publish_info = ( 长江文艺出版社 )
+  author = (郭敬明 )
+  number_of_comments = (80360)
+>
+2016/10/21 23:58:46 
+<Book:
+  bookname = (幻城)
+  rating = (7.1)
+  price = ( 28.00元)
+  publish_info = ( 春风文艺出版社 )
+  author = (郭敬明 )
+  number_of_comments = (86595)
+>
+2016/10/21 23:58:46 
+<Book:
+  bookname = (长安乱)
+  rating = (7.4)
+  price = ( 20.00元)
+  publish_info = ( 中国青年出版社 )
+  author = (韩寒 )
+  number_of_comments = (71076)
+>
+2016/10/21 23:58:46 
+<Book:
+  bookname = (独唱团（第一辑）)
+  rating = (7.8)
+  price = ( 16.00元)
+  publish_info = ( 书海出版社 )
+  author = (韩寒 主编 )
+  number_of_comments = (78719)
+>
+2016/10/21 23:58:46 
+<Book:
+  bookname = (致我们终将逝去的青春)
+  rating = (7.9)
+  price = ( 25.00元)
+  publish_info = ( 朝华出版社 )
+  author = (辛夷坞 )
+  number_of_comments = (78008)
+>
+2016/10/21 23:58:46 
+<Book:
+  bookname = (莲花)
+  rating = (8.0)
+  price = ( 25.00元)
+  publish_info = ( 作家出版社 )
+  author = (安妮宝贝 )
+  number_of_comments = (76190)
+>
+2016/10/21 23:58:46 
+<Book:
+  bookname = (情人)
+  rating = (8.1)
+  price = ( 20.00元)
+  publish_info = ( 上海译文出版社 )
+  author = ([法] 玛格丽特·杜拉斯 )
+  number_of_comments = (77466)
+>
+2016/10/21 23:58:46 
+<Book:
+  bookname = (微微一笑很倾城)
+  rating = (8.1)
+  price = ( 25.00)
+  publish_info = ( 江苏文艺出版社 )
+  author = (顾漫 )
+  number_of_comments = (72437)
+>
+2016/10/21 23:58:46 
+<Book:
+  bookname = (天才在左 疯子在右)
+  rating = (8.3)
+  price = ( 29.80元)
+  publish_info = ( 武汉大学出版社 )
+  author = (高铭 )
+  number_of_comments = (82301)
+>
+2016/10/21 23:58:46 
+<Book:
+  bookname = (1Q84 BOOK 1)
+  rating = (8.3)
+  price = ( 36.00元)
+  publish_info = ( 南海出版公司 )
+  author = ([日] 村上春树 )
+  number_of_comments = (72670)
+>
+2016/10/21 23:58:46 
+<Book:
+  bookname = (狼图腾)
+  rating = (8.3)
+  price = ( 32.00元)
+  publish_info = ( 长江文艺出版社 )
+  author = (姜戎 )
+  number_of_comments = (71570)
+>
+2016/10/21 23:58:46 
+<Book:
+  bookname = (穆斯林的葬礼)
+  rating = (8.3)
+  price = ( 32.00)
+  publish_info = ( 北京十月文艺出版社 )
+  author = (霍达 )
+  number_of_comments = (63160)
+>
+2016/10/21 23:58:46 
+<Book:
+  bookname = (向左走·向右走)
+  rating = (8.4)
+  price = ( 16.00元)
+  publish_info = ( 生活·读书·新知三联书店 )
+  author = (幾米 )
+  number_of_comments = (68858)
+>
+2016/10/21 23:58:46 
+<Book:
+  bookname = (我们仨)
+  rating = (8.6)
+  price = ( 18.80元)
+  publish_info = ( 生活·读书·新知三联书店 )
+  author = (杨绛 )
+  number_of_comments = (65548)
+>
+2016/10/21 23:58:46 
+<Book:
+  bookname = (边城)
+  rating = (8.6)
+  price = ( 12.00元)
+  publish_info = ( 北岳文艺出版社 )
+  author = (沈从文 )
+  number_of_comments = (62117)
+>
+2016/10/21 23:58:46 
+<Book:
+  bookname = (目送)
+  rating = (8.7)
+  price = ( 39.00元)
+  publish_info = ( 生活·读书·新知三联书店 )
+  author = (龙应台 )
+  number_of_comments = (71528)
+>
+2016/10/21 23:58:46 
+<Book:
+  bookname = (傲慢与偏见)
+  rating = (8.8)
+  price = ( 13.00元)
+  publish_info = ( 人民文学出版社 )
+  author = ([英] 奥斯丁 )
+  number_of_comments = (78828)
+>
+2016/10/21 23:58:46 
+<Book:
+  bookname = (明朝那些事儿（壹）)
+  rating = (8.8)
+  price = ( 24.80)
+  publish_info = ( 中国友谊出版公司 )
+  author = (当年明月 )
+  number_of_comments = (76121)
+>
+2016/10/21 23:58:46 
+<Book:
+  bookname = (哈利·波特与密室)
+  rating = (8.8)
+  price = ( 22.00元)
+  publish_info = ( 人民文学出版社 )
+  author = ([英] J. K. 罗琳 )
+  number_of_comments = (66676)
+>
+2016/10/21 23:58:46 
+<Book:
+  bookname = (哈利·波特与阿兹卡班的囚徒)
+  rating = (8.9)
+  price = ( 26.50元)
+  publish_info = ( 人民文学出版社 )
+  author = ([英] J. K. 罗琳 )
+  number_of_comments = (68919)
+>
+2016/10/21 23:58:46 
+<Book:
+  bookname = (万历十五年)
+  rating = (8.9)
+  price = ( 18.00元)
+  publish_info = ( 生活·读书·新知三联书店 )
+  author = ([美] 黄仁宇 )
+  number_of_comments = (53359)
+>
+2016/10/21 23:58:46 
+<Book:
+  bookname = (哈利·波特与火焰杯)
+  rating = (8.9)
+  price = ( 39.80元)
+  publish_info = ( 人民文学出版社 )
+  author = ([英] J. K. 罗琳 )
+  number_of_comments = (66931)
+>
+2016/10/21 23:58:46 
+<Book:
+  bookname = (天龙八部)
+  rating = (9.0)
+  price = ( 96.0)
+  publish_info = ( 三联书店 )
+  author = (金庸 )
+  number_of_comments = (52478)
+>
+2016/10/21 23:58:46 
+<Book:
+  bookname = (三体Ⅱ)
+  rating = (9.2)
+  price = ( 32.00)
+  publish_info = ( 重庆出版社 )
+  author = (刘慈欣 )
+  number_of_comments = (71111)
+>
+2016/10/21 23:58:46 
+<Book:
+  bookname = (三体Ⅲ)
+  rating = (9.2)
+  price = ( 38.00元)
+  publish_info = ( 重庆出版社 )
+  author = (刘慈欣 )
+  number_of_comments = (70746)
+>
+2016/10/21 23:58:46 dubug url:https://book.douban.com/top250?start=50
+2016/10/21 23:58:47 
+<Book:
+  bookname = (从你的全世界路过)
+  rating = (7.3)
+  price = ( 36.00元)
+  publish_info = ( 湖南文艺出版社 )
+  author = (张嘉佳 )
+  number_of_comments = (60358)
+>
+2016/10/21 23:58:47 
+<Book:
+  bookname = (1995-2005夏至未至)
+  rating = (7.4)
+  price = ( 24.00元)
+  publish_info = ( 春风文艺出版社 )
+  author = (郭敬明 )
+  number_of_comments = (66313)
+>
+2016/10/21 23:58:47 
+<Book:
+  bookname = (一个人的好天气)
+  rating = (7.6)
+  price = ( 15.00元)
+  publish_info = ( 上海译文出版社 )
+  author = ([日] 青山七惠 )
+  number_of_comments = (66288)
+>
+2016/10/21 23:58:47 
+<Book:
+  bookname = (放学后)
+  rating = (7.6)
+  price = ( 20.00元)
+  publish_info = ( 南海出版公司 )
+  author = ([日]东野圭吾 )
+  number_of_comments = (62934)
+>
+2016/10/21 23:58:47 
+<Book:
+  bookname = (文化苦旅)
+  rating = (7.8)
+  price = ( 22.00元)
+  publish_info = ( 东方出版中心 )
+  author = (余秋雨 )
+  number_of_comments = (59779)
+>
+2016/10/21 23:58:47 
+<Book:
+  bookname = (喜宝)
+  rating = (8.1)
+  price = ( 22.00元)
+  publish_info = ( 新世界出版社 )
+  author = (亦舒 )
+  number_of_comments = (40688)
+>
+2016/10/21 23:58:47 
+<Book:
+  bookname = (海边的卡夫卡)
+  rating = (8.1)
+  price = ( 25.00元)
+  publish_info = ( 上海译文出版社 )
+  author = ([日] 村上春树 )
+  number_of_comments = (57740)
+>
+2016/10/21 23:58:47 
+<Book:
+  bookname = (兄弟（上）)
+  rating = (8.3)
+  price = ( 16.00元)
+  publish_info = ( 上海文艺出版社 )
+  author = (余华 )
+  number_of_comments = (55550)
+>
+2016/10/21 23:58:47 
+<Book:
+  bookname = (三生三世 十里桃花)
+  rating = (8.3)
+  price = ( 26.80)
+  publish_info = ( 沈阳出版社 )
+  author = (唐七公子 )
+  number_of_comments = (53465)
+>
+2016/10/21 23:58:47 
+<Book:
+  bookname = (恶意)
+  rating = (8.4)
+  price = ( 18.00)
+  publish_info = ( 南海出版公司 )
+  author = ([日] 东野圭吾 )
+  number_of_comments = (56078)
+>
+2016/10/21 23:58:47 
+<Book:
+  bookname = (盗墓笔记)
+  rating = (8.4)
+  price = ( 26.80元)
+  publish_info = ( 中国友谊出版公司 )
+  author = (南派三叔 )
+  number_of_comments = (56150)
+>
+2016/10/21 23:58:47 
+<Book:
+  bookname = (呼啸山庄)
+  rating = (8.4)
+  price = ( 27.30元)
+  publish_info = ( 人民文学出版社 )
+  author = (艾米莉·勃朗特 )
+  number_of_comments = (53527)
+>
+2016/10/21 23:58:47 
+<Book:
+  bookname = (悟空传)
+  rating = (8.4)
+  price = ( 14.80元)
+  publish_info = ( 光明日报出版社 )
+  author = (今何在 )
+  number_of_comments = (52886)
+>
+2016/10/21 23:58:47 
+<Book:
+  bookname = (苏菲的世界)
+  rating = (8.5)
+  price = ( 26.80)
+  publish_info = ( 作家出版社 )
+  author = (（挪威）乔斯坦·贾德 )
+  number_of_comments = (58100)
+>
+2016/10/21 23:58:47 
+<Book:
+  bookname = (哈利·波特与凤凰社)
+  rating = (8.6)
+  price = ( 59.00元)
+  publish_info = ( 人民文学出版社 )
+  author = ([英] J. K. 罗琳 )
+  number_of_comments = (55169)
+>
+2016/10/21 23:58:47 
+<Book:
+  bookname = (许三观卖血记)
+  rating = (8.6)
+  price = ( 16.80元)
+  publish_info = ( 南海出版公司 )
+  author = (余华 )
+  number_of_comments = (54665)
+>
+2016/10/21 23:58:47 
+<Book:
+  bookname = (窗边的小豆豆)
+  rating = (8.7)
+  price = ( 20.00元)
+  publish_info = ( 南海出版公司 )
+  author = ([日] 黑柳彻子 著 )
+  number_of_comments = (53455)
+>
+2016/10/21 23:58:47 
+<Book:
+  bookname = (哈利·波特与混血王子)
+  rating = (8.8)
+  price = ( 58.00元)
+  publish_info = ( 人民文学出版社 )
+  author = ([英] J. K. 罗琳 )
+  number_of_comments = (58568)
+>
+2016/10/21 23:58:47 
+<Book:
+  bookname = (黄金时代)
+  rating = (8.8)
+  price = ( 19.00元)
+  publish_info = ( 花城出版社 )
+  author = (王小波 )
+  number_of_comments = (50948)
+>
+2016/10/21 23:58:47 
+<Book:
+  bookname = (Harry Potter and the Deathly Hallows)
+  rating = (8.9)
+  price = ( 34.99美元)
+  publish_info = ( Arthur A. Levine Books )
+  author = (J.K.Rowling )
+  number_of_comments = (6470)
+>
+2016/10/21 23:58:47 
+<Book:
+  bookname = (月亮和六便士)
+  rating = (8.9)
+  price = ( 15.00元)
+  publish_info = ( 上海译文出版社 )
+  author = ([英] 毛姆 )
+  number_of_comments = (58790)
+>
+2016/10/21 23:58:47 
+<Book:
+  bookname = (基督山伯爵)
+  rating = (8.9)
+  price = ( 43.90元)
+  publish_info = ( 上海译文出版社 )
+  author = (大仲马 )
+  number_of_comments = (47576)
+>
+2016/10/21 23:58:47 
+<Book:
+  bookname = (笑傲江湖（全四册）)
+  rating = (8.9)
+  price = ( 76.80元)
+  publish_info = ( 生活·读书·新知三联书店 )
+  author = (金庸 )
+  number_of_comments = (47123)
+>
+2016/10/21 23:58:47 
+<Book:
+  bookname = (撒哈拉的故事)
+  rating = (9.0)
+  price = ( 160 TWD)
+  publish_info = ( 皇冠出版社 )
+  author = (三毛 )
+  number_of_comments = (52038)
+>
+2016/10/21 23:58:47 
+<Book:
+  bookname = (三国演义（全二册）)
+  rating = (9.2)
+  price = ( 39.50元)
+  publish_info = ( 人民文学出版社 )
+  author = ([明] 罗贯中 )
+  number_of_comments = (51868)
+>
+2016/10/21 23:58:47 dubug url:https://book.douban.com/top250?start=75
+2016/10/21 23:58:47 
+<Book:
+  bookname = (小时代1.0折纸时代)
+  rating = (6.7)
+  price = ( 29.80元)
+  publish_info = ( 长江文艺出版社 )
+  author = (郭敬明 )
+  number_of_comments = (57715)
+>
+2016/10/21 23:58:47 
+<Book:
+  bookname = (第一次的亲密接触)
+  rating = (7.4)
+  price = ( 12.80)
+  publish_info = ( 知识出版社 )
+  author = (蔡智恒 )
+  number_of_comments = (51360)
+>
+2016/10/21 23:58:47 
+<Book:
+  bookname = (一座城池)
+  rating = (7.4)
+  price = ( 19.90元)
+  publish_info = ( 二十一世纪出版社 )
+  author = (韩寒 )
+  number_of_comments = (49777)
+>
+2016/10/21 23:58:47 
+<Book:
+  bookname = (他的国)
+  rating = (7.5)
+  price = ( 25.00元)
+  publish_info = ( 万卷出版公司 )
+  author = (韩寒 )
+  number_of_comments = (48783)
+>
+2016/10/21 23:58:47 
+<Book:
+  bookname = (八月未央)
+  rating = (7.5)
+  price = ( 16.00元)
+  publish_info = ( 作家出版社 )
+  author = (安妮宝贝 )
+  number_of_comments = (47111)
+>
+2016/10/21 23:58:47 
+<Book:
+  bookname = (洛丽塔)
+  rating = (7.7)
+  price = ( 27.00元)
+  publish_info = ( 上海译文出版社 )
+  author = ([美] 弗拉基米尔·纳博科夫 )
+  number_of_comments = (50546)
+>
+2016/10/21 23:58:47 
+<Book:
+  bookname = (素年锦时)
+  rating = (7.8)
+  price = ( 27.00元)
+  publish_info = ( 作家出版社 )
+  author = (安妮宝贝 )
+  number_of_comments = (50403)
+>
+2016/10/21 23:58:47 
+<Book:
+  bookname = (彼岸花)
+  rating = (7.8)
+  price = ( 20.00元)
+  publish_info = ( 南海出版公司 )
+  author = (安妮宝贝 )
+  number_of_comments = (47790)
+>
+2016/10/21 23:58:47 
+<Book:
+  bookname = (麦田里的守望者)
+  rating = (7.9)
+  price = ( 7.80元)
+  publish_info = ( 译林出版社 )
+  author = ([美国] J. D. 塞林格 )
+  number_of_comments = (47042)
+>
+2016/10/21 23:58:47 
+<Book:
+  bookname = (西决)
+  rating = (8.0)
+  price = ( 22.80元)
+  publish_info = ( 长江文艺出版社 )
+  author = (笛安 )
+  number_of_comments = (44874)
+>
+2016/10/21 23:58:47 
+<Book:
+  bookname = (遇见未知的自己)
+  rating = (8.1)
+  price = ( 29.00)
+  publish_info = ( 华夏出版社 )
+  author = (张德芬 )
+  number_of_comments = (51539)
+>
+2016/10/21 23:58:47 
+<Book:
+  bookname = (少有人走的路)
+  rating = (8.3)
+  price = ( 26.00元)
+  publish_info = ( 吉林文史出版社 )
+  author = ([美] M·斯科特·派克 )
+  number_of_comments = (50766)
+>
+2016/10/21 23:58:47 
+<Book:
+  bookname = (老人与海)
+  rating = (8.3)
+  price = ( 8.20元)
+  publish_info = ( 上海译文出版社 )
+  author = (海明威 )
+  number_of_comments = (49043)
+>
+2016/10/21 23:58:47 
+<Book:
+  bookname = (1Q84 BOOK 2)
+  rating = (8.4)
+  price = ( 36.00元)
+  publish_info = ( 南海出版公司 )
+  author = ([日] 村上春树 )
+  number_of_comments = (46520)
+>
+2016/10/21 23:58:47 
+<Book:
+  bookname = (民主的细节)
+  rating = (8.6)
+  price = ( 25.00)
+  publish_info = ( 上海三联书店 )
+  author = (刘瑜 )
+  number_of_comments = (50672)
+>
+2016/10/21 23:58:47 
+<Book:
+  bookname = (情书)
+  rating = (8.6)
+  price = ( 18.00元)
+  publish_info = ( 天津人民出版社 )
+  author = ([日] 岩井俊二 )
+  number_of_comments = (44360)
+>
+2016/10/21 23:58:47 
+<Book:
+  bookname = (亲爱的安德烈)
+  rating = (8.7)
+  price = ( 26.00)
+  publish_info = ( 人民文学出版社 )
+  author = (龙应台 )
+  number_of_comments = (48999)
+>
+2016/10/21 23:58:47 
+<Book:
+  bookname = (灿烂千阳)
+  rating = (8.7)
+  price = ( 28.00元)
+  publish_info = ( 上海人民出版社 )
+  author = ([美] 卡勒德·胡赛尼 )
+  number_of_comments = (47102)
+>
+2016/10/21 23:58:47 
+<Book:
+  bookname = (牧羊少年奇幻之旅)
+  rating = (8.7)
+  price = ( 25.00元)
+  publish_info = ( 南海出版公司 )
+  author = ([巴西]保罗·柯艾略 )
+  number_of_comments = (43288)
+>
+2016/10/21 23:58:47 
+<Book:
+  bookname = (神雕侠侣)
+  rating = (8.8)
+  price = ( 76.8)
+  publish_info = ( 三联书店 )
+  author = (金庸 )
+  number_of_comments = (42787)
+>
+2016/10/21 23:58:47 
+<Book:
+  bookname = (霍乱时期的爱情)
+  rating = (8.9)
+  price = ( 39.50元)
+  publish_info = ( 南海出版公司 )
+  author = ([哥伦比亚] 加西亚·马尔克斯 )
+  number_of_comments = (47061)
+>
+2016/10/21 23:58:47 
+<Book:
+  bookname = (百年孤独)
+  rating = (8.9)
+  price = ( 12.70元)
+  publish_info = ( 上海译文出版社 )
+  author = ([哥伦比亚] 加西亚·马尔克斯 )
+  number_of_comments = (46181)
+>
+2016/10/21 23:58:47 
+<Book:
+  bookname = (白夜行)
+  rating = (9.2)
+  price = ( 39.50元)
+  publish_info = ( 南海出版公司 )
+  author = ([日] 东野圭吾 )
+  number_of_comments = (46912)
+>
+2016/10/21 23:58:47 
+<Book:
+  bookname = (福尔摩斯探案全集（上中下）)
+  rating = (9.2)
+  price = (68.00元)
+  publish_info = ( 1981-8 )
+  author = ([英] 阿·柯南道尔 )
+  number_of_comments = (46299)
+>
+2016/10/21 23:58:47 
+<Book:
+  bookname = (一九八四·动物农场)
+  rating = (9.2)
+  price = ( 23.00元)
+  publish_info = ( 上海译文出版社 )
+  author = ([英] 乔治·奥威尔 )
+  number_of_comments = (23770)
+>
+2016/10/21 23:58:47 dubug url:https://book.douban.com/top250?start=100
+2016/10/21 23:58:48 
+<Book:
+  bookname = (蔡康永的说话之道)
+  rating = (7.2)
+  price = ( 25.00元)
+  publish_info = ( 沈阳出版社 )
+  author = (蔡康永 著 )
+  number_of_comments = (45525)
+>
+2016/10/21 23:58:48 
+<Book:
+  bookname = (人生若只如初见)
+  rating = (7.3)
+  price = ( 23.80元)
+  publish_info = ( 天津教育出版社 )
+  author = (安意如 )
+  number_of_comments = (40847)
+>
+2016/10/21 23:58:48 
+<Book:
+  bookname = (岛上书店)
+  rating = (7.7)
+  price = ( CNY 35.00)
+  publish_info = ( 江苏凤凰文艺出版社 )
+  author = ([美] 加布瑞埃拉·泽文 )
+  number_of_comments = (41656)
+>
+2016/10/21 23:58:48 
+<Book:
+  bookname = (芒果街上的小屋)
+  rating = (7.8)
+  price = ( 24.50元)
+  publish_info = ( 译林出版社 )
+  author = ([美国] 桑德拉·希斯内罗丝 )
+  number_of_comments = (42802)
+>
+2016/10/21 23:58:48 
+<Book:
+  bookname = (清醒纪)
+  rating = (7.9)
+  price = ( 22.00元)
+  publish_info = ( 天津人民出版社 )
+  author = (安妮宝贝 )
+  number_of_comments = (44260)
+>
+2016/10/21 23:58:48 
+<Book:
+  bookname = (鲁滨逊漂流记)
+  rating = (7.9)
+  price = ( 9.20元)
+  publish_info = ( 广西民族出版社 )
+  author = ([英] 笛福 )
+  number_of_comments = (40081)
+>
+2016/10/21 23:58:48 
+<Book:
+  bookname = (山楂树之恋)
+  rating = (7.9)
+  price = ( 25.00元)
+  publish_info = ( 江苏文艺出版社 )
+  author = (艾米 )
+  number_of_comments = (40033)
+>
+2016/10/21 23:58:48 
+<Book:
+  bookname = (茶花女)
+  rating = (8.1)
+  price = ( 9.00)
+  publish_info = ( 外国文学出版社 )
+  author = (小仲马 )
+  number_of_comments = (44105)
+>
+2016/10/21 23:58:48 
+<Book:
+  bookname = (当我谈跑步时我谈些什么)
+  rating = (8.1)
+  price = ( 25.00)
+  publish_info = ( 南海出版公司 )
+  author = ([日] 村上春树 )
+  number_of_comments = (40709)
+>
+2016/10/21 23:58:48 
+<Book:
+  bookname = (羊脂球)
+  rating = (8.1)
+  price = ( 13.50元)
+  publish_info = ( 北京燕山出版社 )
+  author = (（法）莫泊桑 )
+  number_of_comments = (40274)
+>
+2016/10/21 23:58:48 
+<Book:
+  bookname = (麦田里的守望者)
+  rating = (8.1)
+  price = ( 28.00元)
+  publish_info = ( 译林出版社 )
+  author = ([美国] J. D. 塞林格 )
+  number_of_comments = (38623)
+>
+2016/10/21 23:58:48 
+<Book:
+  bookname = (地下铁)
+  rating = (8.3)
+  price = ( 32.00元)
+  publish_info = ( 辽宁教育出版社 )
+  author = (幾米 )
+  number_of_comments = (38553)
+>
+2016/10/21 23:58:48 
+<Book:
+  bookname = (巴黎圣母院)
+  rating = (8.3)
+  price = ( 22.50元)
+  publish_info = ( 人民文学出版社 )
+  author = ([法]雨果 )
+  number_of_comments = (38465)
+>
+2016/10/21 23:58:48 
+<Book:
+  bookname = (陪安东尼度过漫长岁月)
+  rating = (8.4)
+  price = ( 18.00)
+  publish_info = ( 长江文艺出版社 )
+  author = (安东尼 )
+  number_of_comments = (40166)
+>
+2016/10/21 23:58:48 
+<Book:
+  bookname = (挪威的森林)
+  rating = (8.4)
+  price = ( 23.00元)
+  publish_info = ( 上海译文出版社 )
+  author = ([日] 村上春树 )
+  number_of_comments = (36573)
+>
+2016/10/21 23:58:48 
+<Book:
+  bookname = (这些都是你给我的爱)
+  rating = (8.5)
+  price = ( 24.80元)
+  publish_info = ( 长江文艺出版社 )
+  author = (文：安东尼 )
+  number_of_comments = (42597)
+>
+2016/10/21 23:58:48 
+<Book:
+  bookname = (华胥引（全二册）)
+  rating = (8.6)
+  price = ( 39.80元)
+  publish_info = ( 现代出版社 )
+  author = (唐七公子 )
+  number_of_comments = (35916)
+>
+2016/10/21 23:58:48 
+<Book:
+  bookname = (一个陌生女人的来信)
+  rating = (8.7)
+  price = ( 20.00元)
+  publish_info = ( 上海译文出版社 )
+  author = ([奥] 斯台芬·茨威格 )
+  number_of_comments = (37289)
+>
+2016/10/21 23:58:48 
+<Book:
+  bookname = (这些人，那些事)
+  rating = (8.8)
+  price = ( 28.00元)
+  publish_info = ( 译林出版社 )
+  author = (吴念真 )
+  number_of_comments = (40308)
+>
+2016/10/21 23:58:48 
+<Book:
+  bookname = (明朝那些事儿（贰）)
+  rating = (8.9)
+  price = ( 24.80)
+  publish_info = ( 中国友谊出版公司 )
+  author = (当年明月 )
+  number_of_comments = (38413)
+>
+2016/10/21 23:58:48 
+<Book:
+  bookname = (东方快车谋杀案)
+  rating = (9.0)
+  price = ( 18.00元)
+  publish_info = ( 人民文学出版社 )
+  author = ([英] 阿加莎·克里斯蒂 )
+  number_of_comments = (31453)
+>
+2016/10/21 23:58:48 
+<Book:
+  bookname = (沉默的大多数)
+  rating = (9.0)
+  price = ( 27.00元)
+  publish_info = ( 中国青年出版社 )
+  author = (王小波 )
+  number_of_comments = (35563)
+>
+2016/10/21 23:58:48 
+<Book:
+  bookname = (撒哈拉的故事)
+  rating = (9.2)
+  price = ( 15.80元)
+  publish_info = ( 哈尔滨出版社 )
+  author = (三毛 )
+  number_of_comments = (35764)
+>
+2016/10/21 23:58:48 
+<Book:
+  bookname = (活着)
+  rating = (9.3)
+  price = ( 20.00元)
+  publish_info = ( 作家出版社 )
+  author = (余华 )
+  number_of_comments = (39968)
+>
+2016/10/21 23:58:48 
+<Book:
+  bookname = (灌篮高手31)
+  rating = (9.5)
+  price = ( 7.50元)
+  publish_info = ( 长春出版社 )
+  author = ([日] 井上雄彦 )
+  number_of_comments = (26347)
+>
+2016/10/21 23:58:48 dubug url:https://book.douban.com/top250?start=125
+2016/10/21 23:58:48 
+<Book:
+  bookname = (会有天使替我爱你)
+  rating = (6.8)
+  price = ( 20.00元)
+  publish_info = ( 新世界出版社 )
+  author = (明晓溪 )
+  number_of_comments = (41537)
+>
+2016/10/21 23:58:48 
+<Book:
+  bookname = (泡沫之夏)
+  rating = (7.0)
+  price = ( 20.00元)
+  publish_info = ( 新世界出版社 )
+  author = (明晓溪 )
+  number_of_comments = (40428)
+>
+2016/10/21 23:58:48 
+<Book:
+  bookname = (货币战争)
+  rating = (7.3)
+  price = ( 38.00元)
+  publish_info = ( 中信出版社 )
+  author = (宋鸿兵 编著 )
+  number_of_comments = (37672)
+>
+2016/10/21 23:58:48 
+<Book:
+  bookname = (告别薇安)
+  rating = (7.5)
+  price = ( 19.00)
+  publish_info = ( 中国社会科学出版社 )
+  author = (安妮宝贝 )
+  number_of_comments = (36433)
+>
+2016/10/21 23:58:48 
+<Book:
+  bookname = (年华是无效信)
+  rating = (7.6)
+  price = ( 20.00元)
+  publish_info = ( 春风文艺出版社 )
+  author = (落落 )
+  number_of_comments = (38403)
+>
+2016/10/21 23:58:48 
+<Book:
+  bookname = (钢铁是怎样炼成的)
+  rating = (7.6)
+  price = ( 20.00元)
+  publish_info = ( 译林出版社 )
+  author = ([苏] 尼·奥斯特洛夫斯基 )
+  number_of_comments = (38483)
+>
+2016/10/21 23:58:48 
+<Book:
+  bookname = (小团圆)
+  rating = (7.6)
+  price = ( 28.00)
+  publish_info = ( 北京十月文艺出版社 )
+  author = (张爱玲 )
+  number_of_comments = (38349)
+>
+2016/10/21 23:58:48 
+<Book:
+  bookname = (原来你还在这里)
+  rating = (7.7)
+  price = ( 25.00元)
+  publish_info = ( 朝华出版社 )
+  author = (辛夷坞 )
+  number_of_comments = (35922)
+>
+2016/10/21 23:58:48 
+<Book:
+  bookname = (二三事)
+  rating = (7.7)
+  price = ( 20.00元)
+  publish_info = ( 南海出版公司 )
+  author = (安妮宝贝 )
+  number_of_comments = (35117)
+>
+2016/10/21 23:58:48 
+<Book:
+  bookname = (且听风吟)
+  rating = (7.8)
+  price = ( 11.80元)
+  publish_info = ( 上海译文出版社 )
+  author = ([日] 村上春树 )
+  number_of_comments = (38628)
+>
+2016/10/21 23:58:48 
+<Book:
+  bookname = (在路上)
+  rating = (7.8)
+  price = ( 28.00元)
+  publish_info = ( 上海译文出版社 )
+  author = ([美] 杰克·凯鲁亚克 )
+  number_of_comments = (36659)
+>
+2016/10/21 23:58:48 
+<Book:
+  bookname = (佳期如梦)
+  rating = (8.0)
+  price = ( 20.00元)
+  publish_info = ( 新世界出版社 )
+  author = (匪我思存 )
+  number_of_comments = (34923)
+>
+2016/10/21 23:58:48 
+<Book:
+  bookname = (鬼吹灯之精绝古城)
+  rating = (8.1)
+  price = ( 25.0)
+  publish_info = ( 安徽文艺出版社 )
+  author = (天下霸唱 )
+  number_of_comments = (34397)
+>
+2016/10/21 23:58:48 
+<Book:
+  bookname = (时间旅行者的妻子)
+  rating = (8.1)
+  price = ( 29.90元)
+  publish_info = ( 人民文学出版社 )
+  author = ([美] 奥德丽·尼芬格 )
+  number_of_comments = (34228)
+>
+2016/10/21 23:58:48 
+<Book:
+  bookname = (红玫瑰与白玫瑰)
+  rating = (8.3)
+  price = ( 12.80元)
+  publish_info = ( 花城出版社 )
+  author = (张爱玲 )
+  number_of_comments = (35550)
+>
+2016/10/21 23:58:48 
+<Book:
+  bookname = (此间的少年)
+  rating = (8.4)
+  price = ( 25.00元)
+  publish_info = ( 华文出版社 )
+  author = (江南 )
+  number_of_comments = (33990)
+>
+2016/10/21 23:58:48 
+<Book:
+  bookname = (一個人住第5年)
+  rating = (8.4)
+  price = ( NT$220)
+  publish_info = ( 大田 )
+  author = (高木直子 )
+  number_of_comments = (33570)
+>
+2016/10/21 23:58:48 
+<Book:
+  bookname = (月亮忘記了)
+  rating = (8.5)
+  price = ( NT$ 299)
+  publish_info = ( 格林 )
+  author = (幾米 )
+  number_of_comments = (34630)
+>
+2016/10/21 23:58:48 
+<Book:
+  bookname = (白鹿原)
+  rating = (8.6)
+  price = ( 28.00元)
+  publish_info = ( 人民文学出版社 )
+  author = (陈忠实 )
+  number_of_comments = (33744)
+>
+2016/10/21 23:58:48 
+<Book:
+  bookname = (呐喊)
+  rating = (8.8)
+  price = ( 0.36元)
+  publish_info = ( 人民文学出版社 )
+  author = (鲁迅 )
+  number_of_comments = (33883)
+>
+2016/10/21 23:58:48 
+<Book:
+  bookname = (哭泣的骆驼)
+  rating = (8.9)
+  price = ( 15.80元)
+  publish_info = ( 哈尔滨出版社 )
+  author = (三毛 )
+  number_of_comments = (28751)
+>
+2016/10/21 23:58:48 
+<Book:
+  bookname = (射雕英雄传（全四册）)
+  rating = (8.9)
+  price = ( 47.00元)
+  publish_info = ( 生活·读书·新知三联书店 )
+  author = (金庸 )
+  number_of_comments = (30836)
+>
+2016/10/21 23:58:48 
+<Book:
+  bookname = (明朝那些事儿（叁）)
+  rating = (8.9)
+  price = ( 24.80)
+  publish_info = ( 中国友谊出版公司 )
+  author = (当年明月 )
+  number_of_comments = (32028)
+>
+2016/10/21 23:58:48 
+<Book:
+  bookname = (肖申克的救赎)
+  rating = (9.1)
+  price = ( 29.90元)
+  publish_info = ( 人民文学出版社 )
+  author = ([美] 斯蒂芬·金 )
+  number_of_comments = (34496)
+>
+2016/10/21 23:58:48 
+<Book:
+  bookname = (安徒生童话故事集)
+  rating = (9.1)
+  price = ( 25.00)
+  publish_info = ( 人民文学出版社 )
+  author = (（丹麦）安徒生 )
+  number_of_comments = (34142)
+>
+2016/10/21 23:58:48 dubug url:https://book.douban.com/top250?start=150
+2016/10/21 23:58:49 
+<Book:
+  bookname = (左手倒影，右手年华。)
+  rating = (6.7)
+  price = ( 16.00元)
+  publish_info = ( 上海译文出版社 )
+  author = (郭敬明 )
+  number_of_comments = (36866)
+>
+2016/10/21 23:58:49 
+<Book:
+  bookname = (左耳)
+  rating = (7.1)
+  price = ( 22.00元)
+  publish_info = ( 当代世界出版社 )
+  author = (饶雪漫 )
+  number_of_comments = (34926)
+>
+2016/10/21 23:58:49 
+<Book:
+  bookname = (零下一度)
+  rating = (7.2)
+  price = ( 12.00)
+  publish_info = ( 上海人民出版社 )
+  author = (韩寒 )
+  number_of_comments = (34949)
+>
+2016/10/21 23:58:49 
+<Book:
+  bookname = (像少年啦飞驰)
+  rating = (7.3)
+  price = ( 16.00元)
+  publish_info = ( 作家出版社 )
+  author = (韩寒 )
+  number_of_comments = (34271)
+>
+2016/10/21 23:58:49 
+<Book:
+  bookname = (我们台湾这些年)
+  rating = (7.4)
+  price = ( 29.80元)
+  publish_info = ( 重庆出版集团 )
+  author = (廖信忠 )
+  number_of_comments = (32895)
+>
+2016/10/21 23:58:49 
+<Book:
+  bookname = (兄弟（下）)
+  rating = (7.5)
+  price = ( 27.00元)
+  publish_info = ( 上海文艺出版社 )
+  author = (余华 )
+  number_of_comments = (35068)
+>
+2016/10/21 23:58:49 
+<Book:
+  bookname = (幻夜)
+  rating = (7.6)
+  price = ( 28.00元)
+  publish_info = ( 南海出版公司 )
+  author = (〔日〕东野圭吾 )
+  number_of_comments = (33201)
+>
+2016/10/21 23:58:49 
+<Book:
+  bookname = (被窝是青春的坟墓)
+  rating = (7.8)
+  price = ( 22.00元)
+  publish_info = ( 长江文艺出版社 )
+  author = (七堇年 )
+  number_of_comments = (31997)
+>
+2016/10/21 23:58:49 
+<Book:
+  bookname = (偷影子的人)
+  rating = (7.9)
+  price = ( 29.80元)
+  publish_info = ( 湖南文艺出版社 )
+  author = ((法)马克·李维 )
+  number_of_comments = (32463)
+>
+2016/10/21 23:58:49 
+<Book:
+  bookname = (常识)
+  rating = (8.1)
+  price = ( 38.00)
+  publish_info = ( 广西师范大学出版社 )
+  author = (梁文道 )
+  number_of_comments = (33776)
+>
+2016/10/21 23:58:49 
+<Book:
+  bookname = (步步惊心)
+  rating = (8.1)
+  price = ( 25.00元)
+  publish_info = ( 民族出版社 )
+  author = (桐华 )
+  number_of_comments = (33146)
+>
+2016/10/21 23:58:49 
+<Book:
+  bookname = (失恋33天)
+  rating = (8.1)
+  price = ( 25.00元)
+  publish_info = ( 中信出版社 )
+  author = (鲍鲸鲸 )
+  number_of_comments = (32953)
+>
+2016/10/21 23:58:49 
+<Book:
+  bookname = (孤独六讲)
+  rating = (8.1)
+  price = ( 36.00元)
+  publish_info = ( 广西师范大学出版社 )
+  author = (蒋勋 )
+  number_of_comments = (31774)
+>
+2016/10/21 23:58:49 
+<Book:
+  bookname = (盗墓笔记2)
+  rating = (8.2)
+  price = ( 26.80元)
+  publish_info = ( 中国友谊出版公司 )
+  author = (南派三叔 )
+  number_of_comments = (31254)
+>
+2016/10/21 23:58:49 
+<Book:
+  bookname = (人间失格)
+  rating = (8.3)
+  price = ( 16.00元)
+  publish_info = ( 吉林出版集团有限责任公司 )
+  author = (太宰治 )
+  number_of_comments = (31139)
+>
+2016/10/21 23:58:49 
+<Book:
+  bookname = (了不起的盖茨比)
+  rating = (8.3)
+  price = ( 12.00元)
+  publish_info = ( 人民文学出版社 )
+  author = (菲茨杰拉德 )
+  number_of_comments = (30515)
+>
+2016/10/21 23:58:49 
+<Book:
+  bookname = (半生缘)
+  rating = (8.6)
+  price = ( 28.00元)
+  publish_info = ( 北京十月文艺出版社 )
+  author = (张爱玲 )
+  number_of_comments = (32082)
+>
+2016/10/21 23:58:49 
+<Book:
+  bookname = (荆棘鸟)
+  rating = (8.6)
+  price = ( 28.00元)
+  publish_info = ( 译林出版社 )
+  author = ([澳] 考琳·麦卡洛 )
+  number_of_comments = (29950)
+>
+2016/10/21 23:58:49 
+<Book:
+  bookname = (鹿鼎记（全五册）)
+  rating = (8.8)
+  price = ( 108.00元)
+  publish_info = ( 广州出版社 花城出版社 )
+  author = (金庸 )
+  number_of_comments = (26288)
+>
+2016/10/21 23:58:49 
+<Book:
+  bookname = (明朝那些事儿（肆）)
+  rating = (8.8)
+  price = ( 24.80)
+  publish_info = ( 中国友谊出版公司 )
+  author = (当年明月 )
+  number_of_comments = (29564)
+>
+2016/10/21 23:58:49 
+<Book:
+  bookname = (无人生还)
+  rating = (8.9)
+  price = ( 19.00)
+  publish_info = ( 人民文学出版社 )
+  author = ([英] 阿加莎・克里斯蒂 )
+  number_of_comments = (29907)
+>
+2016/10/21 23:58:49 
+<Book:
+  bookname = (嫌疑人X的献身)
+  rating = (9.0)
+  price = ( 19.80元)
+  publish_info = ( 南海出版公司 )
+  author = (（日）东野圭吾 )
+  number_of_comments = (30402)
+>
+2016/10/21 23:58:49 
+<Book:
+  bookname = (寻路中国)
+  rating = (9.0)
+  price = ( 33.00元)
+  publish_info = ( 上海译文出版社 )
+  author = ([美] 彼得·海斯勒 )
+  number_of_comments = (28372)
+>
+2016/10/21 23:58:49 
+<Book:
+  bookname = (明朝那些事儿（1-9）)
+  rating = (9.1)
+  price = ( 358.20元)
+  publish_info = ( 中国海关出版社 )
+  author = (当年明月 )
+  number_of_comments = (29442)
+>
+2016/10/21 23:58:49 
+<Book:
+  bookname = (机器猫哆啦A梦23)
+  rating = (9.4)
+  price = ( 8.00)
+  publish_info = ( 吉林美术出版社 )
+  author = (藤子・F・不二雄 )
+  number_of_comments = (27481)
+>
+2016/10/21 23:58:49 dubug url:https://book.douban.com/top250?start=175
+2016/10/21 23:58:49 
+<Book:
+  bookname = (小时代2.0虚铜时代)
+  rating = (6.5)
+  price = ( 26.80元)
+  publish_info = ( 长江文艺出版社 )
+  author = (郭敬明 )
+  number_of_comments = (32908)
+>
+2016/10/21 23:58:49 
+<Book:
+  bookname = (1Q84 BOOK 3)
+  rating = (7.6)
+  price = ( 39.50元)
+  publish_info = ( 南海出版公司 )
+  author = ([日] 村上春树 )
+  number_of_comments = (30390)
+>
+2016/10/21 23:58:49 
+<Book:
+  bookname = (关于莉莉周的一切)
+  rating = (7.7)
+  price = ( 28.00元)
+  publish_info = ( 天津人民出版社 )
+  author = ([日] 岩井俊二 )
+  number_of_comments = (31919)
+>
+2016/10/21 23:58:49 
+<Book:
+  bookname = (巴别塔之犬)
+  rating = (7.7)
+  price = ( 22.00元)
+  publish_info = ( 南海出版公司 )
+  author = ([美] 卡罗琳·帕克丝特 )
+  number_of_comments = (28870)
+>
+2016/10/21 23:58:49 
+<Book:
+  bookname = (水仙已乘鲤鱼去)
+  rating = (7.8)
+  price = ( 19.00元)
+  publish_info = ( 作家出版社 )
+  author = (张悦然 )
+  number_of_comments = (30268)
+>
+2016/10/21 23:58:49 
+<Book:
+  bookname = (当我们谈论爱情时我们在谈论什么)
+  rating = (7.8)
+  price = ( 22.00元)
+  publish_info = ( 译林出版社 )
+  author = ([美] 雷蒙德·卡佛 )
+  number_of_comments = (28689)
+>
+2016/10/21 23:58:49 
+<Book:
+  bookname = (大地之灯)
+  rating = (8.2)
+  price = ( 22.00元)
+  publish_info = ( 长江文艺出版社 )
+  author = (七堇年 )
+  number_of_comments = (29570)
+>
+2016/10/21 23:58:49 
+<Book:
+  bookname = (东霓)
+  rating = (8.2)
+  price = ( 26.80元)
+  publish_info = ( 长江文艺出版社 )
+  author = (笛安 )
+  number_of_comments = (27445)
+>
+2016/10/21 23:58:49 
+<Book:
+  bookname = (乌合之众)
+  rating = (8.3)
+  price = ( 16.00元)
+  publish_info = ( 中央编译出版社 )
+  author = ((法)古斯塔夫.勒庞 )
+  number_of_comments = (27847)
+>
+2016/10/21 23:58:49 
+<Book:
+  bookname = (橙)
+  rating = (8.3)
+  price = ( 28.80元)
+  publish_info = ( 长江文艺出版社 )
+  author = (安东尼 )
+  number_of_comments = (26895)
+>
+2016/10/21 23:58:49 
+<Book:
+  bookname = (尘埃落定)
+  rating = (8.4)
+  price = ( 22.0)
+  publish_info = ( 人民文学出版社 )
+  author = (阿来 )
+  number_of_comments = (27560)
+>
+2016/10/21 23:58:49 
+<Book:
+  bookname = (盗墓笔记3)
+  rating = (8.5)
+  price = ( 26.80元)
+  publish_info = ( 中国友谊出版公司 )
+  author = (南派三叔 )
+  number_of_comments = (27847)
+>
+2016/10/21 23:58:49 
+<Book:
+  bookname = (金锁记)
+  rating = (8.5)
+  price = ( 13.5元)
+  publish_info = ( 哈尔滨出版社 )
+  author = (张爱玲 )
+  number_of_comments = (26346)
+>
+2016/10/21 23:58:49 
+<Book:
+  bookname = (麦琪的礼物)
+  rating = (8.6)
+  price = ( 25.00元)
+  publish_info = ( 上海社会科学院出版社 )
+  author = ([美] 欧·亨利 )
+  number_of_comments = (28114)
+>
+2016/10/21 23:58:49 
+<Book:
+  bookname = (阿Q正传)
+  rating = (8.6)
+  price = ( 14.50)
+  publish_info = ( 上海书店出版社 )
+  author = (鲁迅 )
+  number_of_comments = (27661)
+>
+2016/10/21 23:58:49 
+<Book:
+  bookname = (爱你就像爱生命)
+  rating = (8.8)
+  price = ( 18.00元)
+  publish_info = ( 上海锦绣文章出版社 )
+  author = (王小波 )
+  number_of_comments = (28661)
+>
+2016/10/21 23:58:49 
+<Book:
+  bookname = (明朝那些事儿（伍）)
+  rating = (8.8)
+  price = ( 28.80)
+  publish_info = ( 中国友谊出版公司 )
+  author = (当年明月 )
+  number_of_comments = (26973)
+>
+2016/10/21 23:58:49 
+<Book:
+  bookname = (你好，旧时光（上 下）)
+  rating = (8.8)
+  price = ( 39.80元)
+  publish_info = ( 新世界出版社 )
+  author = (八月长安 )
+  number_of_comments = (25916)
+>
+2016/10/21 23:58:49 
+<Book:
+  bookname = (黄金时代)
+  rating = (8.8)
+  price = ( 23.00元)
+  publish_info = ( 陕西师范大学出版社 )
+  author = (王小波 )
+  number_of_comments = (25809)
+>
+2016/10/21 23:58:49 
+<Book:
+  bookname = (格林童话全集)
+  rating = (8.9)
+  price = ( 21.45元)
+  publish_info = ( 人民文学出版社 )
+  author = (格林兄弟 )
+  number_of_comments = (27618)
+>
+2016/10/21 23:58:49 
+<Book:
+  bookname = (历史深处的忧虑)
+  rating = (9.0)
+  price = ( 19.00元)
+  publish_info = ( 生活·读书·新知三联书店 )
+  author = (林达 )
+  number_of_comments = (26508)
+>
+2016/10/21 23:58:49 
+<Book:
+  bookname = (动物农场)
+  rating = (9.2)
+  price = ( 10.00元)
+  publish_info = ( 上海译文出版社 )
+  author = ([英] 乔治·奥威尔 )
+  number_of_comments = (27198)
+>
+2016/10/21 23:58:49 
+<Book:
+  bookname = (1984)
+  rating = (9.3)
+  price = ( 28.00元)
+  publish_info = ( 北京十月文艺出版社 )
+  author = ([英] 乔治·奥威尔 )
+  number_of_comments = (26067)
+>
+2016/10/21 23:58:49 
+<Book:
+  bookname = (撒哈拉的故事)
+  rating = (9.3)
+  price = ( 24.00元)
+  publish_info = ( 北京十月文艺出版社 )
+  author = (三毛 )
+  number_of_comments = (24767)
+>
+2016/10/21 23:58:49 
+<Book:
+  bookname = (海贼王)
+  rating = (9.5)
+  price = ( 7.5)
+  publish_info = ( 浙江人民美术出版社 )
+  author = (尾田荣一郎 )
+  number_of_comments = (24984)
+>
+2016/10/21 23:58:49 dubug url:https://book.douban.com/top250?start=200
+2016/10/21 23:58:49 
+<Book:
+  bookname = (草样年华)
+  rating = (7.2)
+  price = ( 19.50元)
+  publish_info = ( 远方出版社 )
+  author = (孙睿 )
+  number_of_comments = (29158)
+>
+2016/10/21 23:58:49 
+<Book:
+  bookname = (乖，摸摸头)
+  rating = (7.6)
+  price = ( 36.00元)
+  publish_info = ( 湖南文艺出版社 )
+  author = (大冰 )
+  number_of_comments = (26686)
+>
+2016/10/21 23:58:49 
+<Book:
+  bookname = (曾有一个人，爱我如生命)
+  rating = (7.6)
+  price = ( 23.80)
+  publish_info = ( 中国画报出版社 )
+  author = (舒仪 )
+  number_of_comments = (26219)
+>
+2016/10/21 23:58:49 
+<Book:
+  bookname = (皮囊)
+  rating = (7.8)
+  price = ( 39.80元)
+  publish_info = ( 天津人民出版社 )
+  author = (蔡崇达 )
+  number_of_comments = (25879)
+>
+2016/10/21 23:58:49 
+<Book:
+  bookname = (蔷薇岛屿)
+  rating = (8.0)
+  price = ( 18.00元)
+  publish_info = ( 作家出版社 )
+  author = (安妮宝贝 )
+  number_of_comments = (26927)
+>
+2016/10/21 23:58:49 
+<Book:
+  bookname = (骆驼祥子)
+  rating = (8.2)
+  price = ( 12.00)
+  publish_info = ( 人民文学出版社 )
+  author = (老舍 )
+  number_of_comments = (26999)
+>
+2016/10/21 23:58:49 
+<Book:
+  bookname = (无声告白)
+  rating = (8.2)
+  price = ( 35.00元)
+  publish_info = ( 江苏凤凰文艺出版社 )
+  author = ([美] 伍绮诗 )
+  number_of_comments = (26734)
+>
+2016/10/21 23:58:49 
+<Book:
+  bookname = (那些年，我们一起追的女孩)
+  rating = (8.2)
+  price = ( 20.00元)
+  publish_info = ( 花山文艺出版社 )
+  author = (九把刀 )
+  number_of_comments = (25074)
+>
+2016/10/21 23:58:49 
+<Book:
+  bookname = (匆匆那年（上下）)
+  rating = (8.3)
+  price = ( 29.00)
+  publish_info = ( 东方出版社 )
+  author = (九夜茴 )
+  number_of_comments = (25976)
+>
+2016/10/21 23:58:49 
+<Book:
+  bookname = (长恨歌)
+  rating = (8.3)
+  price = ( 22.00元)
+  publish_info = ( 南海出版公司 )
+  author = (王安忆 )
+  number_of_comments = (25154)
+>
+2016/10/21 23:58:49 
+<Book:
+  bookname = (香水)
+  rating = (8.5)
+  price = ( 20.00元)
+  publish_info = ( 上海译文出版社 )
+  author = ([德] 帕·聚斯金德 )
+  number_of_comments = (26098)
+>
+2016/10/21 23:58:49 
+<Book:
+  bookname = (盗墓笔记4)
+  rating = (8.5)
+  price = ( 32.80元)
+  publish_info = ( 中国友谊出版公司 )
+  author = (南派三叔 )
+  number_of_comments = (25973)
+>
+2016/10/21 23:58:49 
+<Book:
+  bookname = (那些回不去的年少时光)
+  rating = (8.5)
+  price = ( 23.80元)
+  publish_info = ( 江苏文艺出版社 )
+  author = (桐华 )
+  number_of_comments = (25317)
+>
+2016/10/21 23:58:49 
+<Book:
+  bookname = (如何阅读一本书)
+  rating = (8.5)
+  price = ( 38.00元)
+  publish_info = ( 商务印书馆 )
+  author = ([美] 莫提默·J. 艾德勒 )
+  number_of_comments = (24815)
+>
+2016/10/21 23:58:49 
+<Book:
+  bookname = (七夜雪)
+  rating = (8.5)
+  price = ( 25.00元)
+  publish_info = ( 北京十月文艺出版社 )
+  author = (沧月 )
+  number_of_comments = (24437)
+>
+2016/10/21 23:58:49 
+<Book:
+  bookname = (我的路)
+  rating = (8.6)
+  price = ( 20.00元)
+  publish_info = ( 北方妇女儿童出版社 )
+  author = (寂地 )
+  number_of_comments = (25540)
+>
+2016/10/21 23:58:49 
+<Book:
+  bookname = (往事并不如烟)
+  rating = (8.6)
+  price = ( 35.00元)
+  publish_info = ( 人民文学出版社 )
+  author = (章诒和 )
+  number_of_comments = (25148)
+>
+2016/10/21 23:58:49 
+<Book:
+  bookname = (史蒂夫·乔布斯传)
+  rating = (8.7)
+  price = ( 68.00元)
+  publish_info = ( 中信出版社 )
+  author = ([美] 沃尔特·艾萨克森 )
+  number_of_comments = (24555)
+>
+2016/10/21 23:58:49 
+<Book:
+  bookname = (倾城之恋)
+  rating = (8.7)
+  price = ( 29.80元)
+  publish_info = ( 北京十月文艺出版社 )
+  author = (张爱玲 )
+  number_of_comments = (24341)
+>
+2016/10/21 23:58:49 
+<Book:
+  bookname = (看不见的城市)
+  rating = (8.8)
+  price = ( 16.00元)
+  publish_info = ( 译林出版社 )
+  author = ([意大利]伊塔洛·卡尔维诺 )
+  number_of_comments = (24974)
+>
+2016/10/21 23:58:49 
+<Book:
+  bookname = (梦里花落知多少)
+  rating = (8.8)
+  price = ( 28.00元)
+  publish_info = ( 北京十月文艺出版社 )
+  author = (三毛 )
+  number_of_comments = (24434)
+>
+2016/10/21 23:58:49 
+<Book:
+  bookname = (一只特立独行的猪)
+  rating = (8.8)
+  price = ( 18.80元)
+  publish_info = ( 北方文艺出版社 )
+  author = (王小波 )
+  number_of_comments = (24068)
+>
+2016/10/21 23:58:49 
+<Book:
+  bookname = (飞鸟集)
+  rating = (8.8)
+  price = ( 16.80元)
+  publish_info = ( 哈尔滨出版社 )
+  author = ([印] 罗宾德拉纳德·泰戈尔 )
+  number_of_comments = (24028)
+>
+2016/10/21 23:58:49 
+<Book:
+  bookname = (孩子你慢慢来)
+  rating = (8.8)
+  price = ( 28.00元)
+  publish_info = ( 生活·读书·新知三联书店 )
+  author = (龙应台 )
+  number_of_comments = (23665)
+>
+2016/10/21 23:58:49 
+<Book:
+  bookname = (悲惨世界（上中下）)
+  rating = (8.9)
+  price = ( 66.00元)
+  publish_info = ( 人民文学出版社 )
+  author = ([法] 雨果 )
+  number_of_comments = (25381)
+>
+2016/10/21 23:58:49 dubug url:https://book.douban.com/top250?start=225
+2016/10/21 23:58:50 
+<Book:
+  bookname = (谁动了我的奶酪？)
+  rating = (7.2)
+  price = ( 16.80元)
+  publish_info = ( 中信出版社 )
+  author = ([美] 斯宾塞·约翰逊 )
+  number_of_comments = (27276)
+>
+2016/10/21 23:58:50 
+<Book:
+  bookname = (杜拉拉2华年似水)
+  rating = (7.3)
+  price = ( 28.00)
+  publish_info = ( 陕西师范大学出版社 )
+  author = (李可 )
+  number_of_comments = (26828)
+>
+2016/10/21 23:58:50 
+<Book:
+  bookname = (尘埃星球)
+  rating = (7.3)
+  price = ( 22.80元)
+  publish_info = ( 长江文艺出版社 )
+  author = (落落 )
+  number_of_comments = (26313)
+>
+2016/10/21 23:58:50 
+<Book:
+  bookname = (秘密)
+  rating = (7.3)
+  price = ( 32.00)
+  publish_info = ( 中国城市出版社 )
+  author = ([澳] 朗达·拜恩 )
+  number_of_comments = (25831)
+>
+2016/10/21 23:58:50 
+<Book:
+  bookname = (樱桃之远)
+  rating = (7.5)
+  price = ( 23.00元)
+  publish_info = ( 春风文艺出版社 )
+  author = (张悦然 )
+  number_of_comments = (24947)
+>
+2016/10/21 23:58:50 
+<Book:
+  bookname = (不朽)
+  rating = (7.6)
+  price = ( 22.00)
+  publish_info = ( 长江文艺出版社 )
+  author = (落落 )
+  number_of_comments = (25868)
+>
+2016/10/21 23:58:50 
+<Book:
+  bookname = (最初的爱情 最后的仪式)
+  rating = (8.0)
+  price = ( 22.00元)
+  publish_info = ( 南京大学出版社 )
+  author = ([英] 伊恩·麦克尤恩 )
+  number_of_comments = (25170)
+>
+2016/10/21 23:58:50 
+<Book:
+  bookname = (拆掉思维里的墙)
+  rating = (8.0)
+  price = ( 29.80元)
+  publish_info = ( 中国书店 )
+  author = (古典 )
+  number_of_comments = (24123)
+>
+2016/10/21 23:58:50 
+<Book:
+  bookname = (鬼吹灯之云南虫谷)
+  rating = (8.0)
+  price = ( 26.80元)
+  publish_info = ( 安徽文艺出版社 )
+  author = (天下霸唱 )
+  number_of_comments = (23556)
+>
+2016/10/21 23:58:50 
+<Book:
+  bookname = (伊豆的舞女)
+  rating = (8.1)
+  price = ( 23.80元)
+  publish_info = ( 广西师范大学出版社 )
+  author = ([日] 川端康成 )
+  number_of_comments = (24413)
+>
+2016/10/21 23:58:50 
+<Book:
+  bookname = (佛祖在一号线)
+  rating = (8.2)
+  price = ( 25.00元)
+  publish_info = ( 文化艺术出版社 )
+  author = (李海鹏 )
+  number_of_comments = (24737)
+>
+2016/10/21 23:58:50 
+<Book:
+  bookname = (天使与魔鬼)
+  rating = (8.2)
+  price = ( 29.80元)
+  publish_info = ( 人民文学出版社 )
+  author = ([美] 丹.布朗 )
+  number_of_comments = (24545)
+>
+2016/10/21 23:58:50 
+<Book:
+  bookname = (菊与刀)
+  rating = (8.2)
+  price = ( 16.00)
+  publish_info = ( 商务印书馆 )
+  author = (（美）鲁思・本尼迪克特 )
+  number_of_comments = (24240)
+>
+2016/10/21 23:58:50 
+<Book:
+  bookname = (生活在别处)
+  rating = (8.3)
+  price = ( 25.00元)
+  publish_info = ( 上海译文出版社 )
+  author = ([捷克] 米兰·昆德拉 )
+  number_of_comments = (23116)
+>
+2016/10/21 23:58:50 
+<Book:
+  bookname = (盗墓笔记6)
+  rating = (8.4)
+  price = ( 32.80元)
+  publish_info = ( 中国友谊出版公司 )
+  author = (南派三叔 )
+  number_of_comments = (22653)
+>
+2016/10/21 23:58:50 
+<Book:
+  bookname = (世界尽头与冷酷仙境)
+  rating = (8.5)
+  price = ( 23.00元)
+  publish_info = ( 上海译文出版社 )
+  author = ([日] 村上春树 )
+  number_of_comments = (23635)
+>
+2016/10/21 23:58:50 
+<Book:
+  bookname = (倚天屠龙记(共四册))
+  rating = (8.5)
+  price = ( 0)
+  publish_info = ( 三联书店 )
+  author = (金庸 )
+  number_of_comments = (23170)
+>
+2016/10/21 23:58:50 
+<Book:
+  bookname = (ZOO)
+  rating = (8.6)
+  price = ( 20.00元)
+  publish_info = ( 当代世界出版社 )
+  author = ([日] 乙一 )
+  number_of_comments = (22792)
+>
+2016/10/21 23:58:50 
+<Book:
+  bookname = (球状闪电)
+  rating = (8.7)
+  price = ( 22.00元)
+  publish_info = ( 四川科学技术出版社 )
+  author = (刘慈欣 )
+  number_of_comments = (23513)
+>
+2016/10/21 23:58:50 
+<Book:
+  bookname = (明朝那些事儿（陆）)
+  rating = (8.9)
+  price = ( 28.80)
+  publish_info = ( 中国海关出版社 )
+  author = (当年明月 )
+  number_of_comments = (22258)
+>
+2016/10/21 23:58:50 
+<Book:
+  bookname = (阿狸·梦之城堡)
+  rating = (9.0)
+  price = ( 36.80元)
+  publish_info = ( 上海锦绣文章出版社 )
+  author = (hans )
+  number_of_comments = (22944)
+>
+2016/10/21 23:58:50 
+<Book:
+  bookname = (明朝那些事儿（柒）：大结局)
+  rating = (9.0)
+  price = ( 29.80元)
+  publish_info = ( 中国海关出版社 )
+  author = (当年明月 )
+  number_of_comments = (22287)
+>
+2016/10/21 23:58:50 
+<Book:
+  bookname = (傲慢与偏见)
+  rating = (9.0)
+  price = ( 11.00元)
+  publish_info = ( 上海译文出版社 )
+  author = ([英] 奥斯丁 )
+  number_of_comments = (21862)
+>
+2016/10/21 23:58:50 
+<Book:
+  bookname = (七龍珠 34)
+  rating = (9.2)
+  price = ( 6.90)
+  publish_info = ( 東立 )
+  author = (鸟山明 )
+  number_of_comments = (21976)
+>
+2016/10/21 23:58:50 
+<Book:
+  bookname = (冰与火之歌（卷一）)
+  rating = (9.3)
+  price = ( 68.00元)
+  publish_info = ( 重庆出版社 )
+  author = ([美] 乔治·R. R. 马丁 )
+  number_of_comments = (21148)
+>

@@ -1,0 +1,14 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/*
+*.pyc
+*.bak
+__pycache__/*
+migrations/*
+
+sql迁移/homework_6.sqlite
+
+sql迁移/sql迁移.py
+
+1466697636.066128.db.sqlite
+
+1466697620.23898.db.sqlite
